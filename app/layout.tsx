@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     title: "FocusFlow",
     description: "Alcance foco total com o melhor app de produtividade.",
     images: "/FocusFlow-homepage.png",
-    url: "https://focusflow.vercel.app",
+    url: "https://appfocusflow.vercel.app",
   },
 };
 
