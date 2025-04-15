@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "FocusFlow",
     description: "Alcance foco total com o melhor app de produtividade.",
-    images: "/FocusFlow-homepage.png",
+    images: "/preview.png",
     url: "https://appfocusflow.vercel.app",
   },
 };
