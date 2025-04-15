@@ -16,8 +16,14 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "FocusFlow",
-  description:
-    "O FocusFlow combina as melhores técnicas de produtividade com dados que realmente ajudam.",
+  description: "Alcance foco total com o melhor app de produtividade.",
+  manifest: "/manifest.webmanifest",
+  openGraph: {
+    title: "FocusFlow",
+    description: "Alcance foco total com o melhor app de produtividade.",
+    images: "/FocusFlow-homepage.png",
+    url: "https://focusflow.vercel.app",
+  },
 };
 
 export default function RootLayout({
